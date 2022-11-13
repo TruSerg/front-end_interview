@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Inter, sans-serif";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Inter-Regular"),
+    url("../fonts/inter-v11-latin_cyrillic-regular.woff2"),
+    url("../fonts/inter-v11-latin_cyrillic-regular.woff");
+}
+
+@font-face {
+  font-family: "Inter, sans-serif";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Inter-SemiBold"),
+    url("../fonts/inter-v11-latin_cyrillic-600.woff2"),
+    url("../fonts/inter-v11-latin_cyrillic-600.woff");
+}

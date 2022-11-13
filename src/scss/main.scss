@@ -1,0 +1,10 @@
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+@import "vendor";
+@import "settings";
+@import "fonts";
+
+@import "modules/form";
+@import "modules/content";
+@import "modules/modal";

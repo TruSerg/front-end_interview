@@ -42,7 +42,7 @@ const data = () => {
     if (formInput.value.trim().toLowerCase()) {
       sendData(URI_API, JSON.stringify(formInput.value));
 
-      formError.style.display = "none";
+      inputError.style.display = "none";
     } else {
       inputError.style.display = "block";
 
